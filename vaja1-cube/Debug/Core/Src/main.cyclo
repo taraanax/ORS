@@ -1,0 +1,6 @@
+../Core/Src/main.c:10:10:reset_bit	1
+../Core/Src/main.c:15:10:reset_two_bits	1
+../Core/Src/main.c:21:10:set_bit	1
+../Core/Src/main.c:26:10:set_two_bits_to	1
+../Core/Src/main.c:32:6:set_vector_length	1
+../Core/Src/main.c:41:5:main	1
